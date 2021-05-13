@@ -5,9 +5,9 @@ The second part of this repository is the jekyll website. Jekyll is a static web
 
 # Individual Website
 
-  * Geon's Website: https://144.217.243.246/Geon/
-  * Christopher's Website: https://144.217.243.246/Christopher/
-  * Jordano's Website: https://144.217.243.246/Jordano/
+  * Geon's Website: https://144.217.243.246/Geon/Journal.html
+  * Christopher's Website: https://144.217.243.246/Christopher/code/welcome.html
+  * Jordano's Website: https://144.217.243.246/Jordano/Introduction.html
 
 # Team Project
 
