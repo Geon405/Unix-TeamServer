@@ -11,16 +11,16 @@
 	sudo nano /etc/ssh/sshd_config
 4. Set Up a Firewall for Your VPS
 
-#More Specifically (Using Debian)
+# More Specifically (Using Debian)
 
-Step 1: Log in via SSH
-Step 2: Change Logged in User Password
-Step 3: Create a New Sudo user
-Step 4: Loggin in as the Newly Created User
-Step 5: Disable Root Login via SSH
-Step 6: Update Your Server
-Step 7: Setting timezone
-Step 8: Set Hostname
-Step 9: Configure a Firewall
-Step 10: SSH Port Change
-Step 11: Reboot
+1. Log in via SSH
+2. Change Logged in User Password
+3. Create a New Sudo user
+4. Loggin in as the Newly Created User
+5. Disable Root Login via SSH
+6. Update Your Server
+7. Setting timezone
+8. Set Hostname
+9. Configure a Firewall
+10. SSH Port Change
+11. Reboot
