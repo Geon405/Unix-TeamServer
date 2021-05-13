@@ -11,4 +11,4 @@ The second part of this repository is the jekyll website. Jekyll is a static web
 
 # Team Project
 
-  * Team Website: https://144.217.243.246/home/
+  * Team Website: https://144.217.243.246/Unix_Website/homepage.html/
