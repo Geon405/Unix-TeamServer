@@ -18,9 +18,9 @@ $ groups (name)
 
 # Individual Website
 
-  * Geon's Website: https://144.217.243.246/Geon/Journal.html
-  * Christopher's Website: https://144.217.243.246/Christopher/code/welcome.html
-  * Jordano's Website: https://144.217.243.246/Jordano/Introduction.html
+  * Geon's Website: http://144.217.243.246/Unix-TeamServer/Geon/journal.html
+  * Christopher's Website: http://144.217.243.246/Unix-TeamServer/Christopher/code/welcome.html
+  * Jordano's Website: http://144.217.243.246/Unix-TeamServer/Jordano/Introduction.html
 
 # Team Project
 
