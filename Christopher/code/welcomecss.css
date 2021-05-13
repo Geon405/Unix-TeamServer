@@ -1,0 +1,48 @@
+.head{
+  background-image: url("../images/header.jpg");
+  width: 1895px;
+  height: 190px;
+  margin: 0px;
+  background-position: left;
+}
+
+.head h1 {
+  position: absolute;
+  font-size: 120px;
+  color: white;
+  top: -5%;
+  left: 40%;
+}
+
+.wrapper{
+	width: 100%;
+	margin: 0px;
+	background-color: #ffffff;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.message {
+  position: absolute;
+  top: 46%;
+  left: 54%;
+  transform: translate(-50%, -50%);
+  font-family: Verdana,sans-serif;
+  font-size: 72px;
+  color: gray;
+}
+
+.message:hover {
+  position: absolute;
+  top: 46%;
+  left: 54%;
+  transform: translate(-50%, -50%);
+  font-family: Verdana,sans-serif;
+  font-size: 72px;
+  color: white;
+}
+

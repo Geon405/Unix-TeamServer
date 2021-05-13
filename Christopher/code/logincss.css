@@ -1,0 +1,34 @@
+body{
+	background-image: url(../images/bgL.jpg);
+}	
+
+table {
+  margin: 0;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.center {
+  margin: auto;
+  margin-top: 200px;
+  width: 20%;
+  background-color: white;
+  padding: 10px;
+}
+
+.center h1{
+	text-align: center;
+}
+
+footer{
+	position: absolute;
+	background-color: white;
+	bottom: 1px;
+}
+
+.register{
+	position:relative;
+	bottom:-120px;
+	right: -243px;
+	border-radius: 50%;
+}

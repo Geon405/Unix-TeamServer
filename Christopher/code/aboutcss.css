@@ -1,0 +1,140 @@
+.head{
+	background-image: url("../images/header.jpg");
+	max-width: 100%;
+	height: 190px;
+	margin: 0px;
+	background-position: left;
+}
+
+.head h1 {
+	position: absolute;
+	font-size: 120px;
+	color: white;
+	top: -5%;
+	left: 40%;
+}
+
+.container{
+  position: absolute;
+  top: 15%;
+  left: 0%;
+}
+
+nav li a#go {
+	border-left: 1px solid black;
+}
+
+nav li a{
+	clear: both;
+	color: #ffffff;
+	background-color: #aeaca8;
+	height: 30px;
+}
+
+body{
+	background-color: black;
+}
+
+article {
+	clear: both;
+	overflow: auto;
+	width: 100%;
+	height: 280px;
+	color: white;
+}
+
+.art{
+	clear: both;
+	overflow: auto;
+	width: 100%;
+	height: 320px;
+	color: white;
+}
+
+figure {
+	float: left;
+	width: 290px;
+	height: 220px;
+	padding: 5px;
+	margin: 20px;
+	color: white;
+}
+
+.nav li {
+  float: left;
+  list-style-type: none;
+}
+
+.nav li a{
+	color: #ffffff;
+	text-decoration: none;
+	overflow: hidden;
+	padding: 14px 16px; 
+  	font-size: 17px;
+  	text-align: center;
+}
+
+.nav li a:hover {
+  color: cyan;
+}
+
+.account{
+	position: absolute;
+	right: 2%;
+	top: 2%;
+}
+
+.bell{
+	position: absolute;
+	right: 6%;
+	top: 2%;
+}
+
+.login{
+	position: absolute;
+	right: 1%;
+	top: 6%;
+}
+
+.login li {
+  float: left;
+  list-style-type: none;
+}
+
+.login li a{
+	color: #ffffff;
+	text-decoration: none;
+	overflow: hidden;
+	padding: 14px 16px; 
+  	font-size: 17px;
+  	text-align: center;
+}
+
+.search img{
+	position: absolute;
+	right: 6%;
+	top: 15%;
+}
+
+.about{
+	position: absolute;
+	right: 1%;
+	top: 15%;
+}
+
+.about a{
+	text-decoration: none;
+	color: blue;
+	border-radius: 25px;
+  	border: 2px solid gray;
+  	background-color: gray;
+ 	padding: 14px;
+ 	padding-left: 16px;
+  	width: 35px;
+  	height: 5px;
+}
+
+footer{
+	position: absolute;
+	background-color: white;
+}
