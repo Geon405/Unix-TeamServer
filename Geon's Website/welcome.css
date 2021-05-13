@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	background: url(images/homepage.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.navbar{
+	height: 80px;
+	width: 100%;
+	background: rgba(0,0,0,0.4);
+}
+
+.logo{
+	width: 120px;
+	height: auto;
+	padding: 25px 10px;
+}
+
+.navbar u1{
+	float: right;
+	margin-right: 20px;
+}
+
+.navbar u1 li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+}
+
+.navbar u1 li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar u1 li a.active,
+.navbar u1 li a:hover{
+	background: red;
+	border-radius: 2px;
+}
+
+.wrapper .center{
+	position: absolute;
+	top: 50%;
+	left: 55%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+}
+
+.center h1{
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	width: 1500;
+	text-align: center;
+}

@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	background: url(images/people.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.heading{
+	position: absolute;
+	top: 10%;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 30px;
+	color: #111;
+}
+
+.heading h2 {
+	color: black;
+	font-weight: 600;
+	font-size: 30px;
+}
+
+.content{
+	display: flex;
+	justify-content: space-between;
+}
+
+.box-text{
+	position: absolute;
+	top: 20%;
+	right: 25%;
+	color: blue;
+	padding-left:-200px;
+	width: 350px;
+}
+
+.box-text h1{
+	font-style: 24px;
+	margin-bottom: 20px 0;
+}
