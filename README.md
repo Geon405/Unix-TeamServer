@@ -25,3 +25,20 @@ $ groups (name)
 # Team Project
 
   * Team Website: http://144.217.243.246/Unix-TeamServer/Unix_Website/homepage.html
+
+
+#restarting the server
+-loggin in ssh: ssh 144.217.243.246
+$sudo /etc/init.d/nginx stop
+$pkill -9 php
+$sudo /etc/init.d/nginx start
+
+#redirect to the main page
+<meta http-equiv="refresh" content="time; URL=new_url" />
+
+#adding git
+
+$cd debian/var/www/html
+$git config --global user.name "Your Name"
+$git config --global user.email "youremail@domain.com"
+$git clone https://github.com/Geon405/Unix-TeamServer
